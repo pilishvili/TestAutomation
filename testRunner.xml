@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <suite name = "Google Test Suite">
+
+       <test name = "Google Search">
+
+        <classes>
+
+            <class name = "automation.searchgoogleOneTime"/>
+            <class name = "automation.searchGoogleThreeTimes"/>
+            <class name = "automation.searchHelp"/>
+
+        </classes>
+
+       </test>
+
+    </suite>
